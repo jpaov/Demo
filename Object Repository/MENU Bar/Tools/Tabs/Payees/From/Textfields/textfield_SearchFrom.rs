@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textfield_SearchFrom</name>
+   <tag></tag>
+   <elementGuidId>d73ab627-44ab-44ea-a964-aaa5a6f400b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div/span/span/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.Input-component-160.Input-input-161.Input-boxedVariant-164.Input-normalSize-165.Input-input-161</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-monitoring-label</name>
+      <type>Main</type>
+      <value>Bill Payment Form Search</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Input-component-160 Input-input-161 Input-boxedVariant-164 Input-normalSize-165 Input-input-161</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js csstransforms3d csstransitions&quot;]/body[@class=&quot;t-main-background bodyPaymentModalOpen-1-1-23&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open overlay-1-1-25&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open modal-1-1-24&quot;]/div[@class=&quot;chooserContainer-1-1-26&quot;]/div[@class=&quot;Container-component-122 scrollContainer-1-1-68&quot;]/div[@class=&quot;body-1-1-69&quot;]/div[@class=&quot;searchContainer-1-1-71&quot;]/span[@class=&quot;IconInput-component-155&quot;]/span[@class=&quot;InputWrapper-component-171 InputWrapper-normalSize-172&quot;]/input[@class=&quot;Input-component-160 Input-input-161 Input-boxedVariant-164 Input-normalSize-165 Input-input-161&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[7]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/span/span/input</value>
+   </webElementXpaths>
+</WebElementEntity>
